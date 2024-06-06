@@ -23,6 +23,10 @@ I'm a system administrator and blockchain developer passionate about exploring t
 - Kubernetes
 - Git
 
+## My Projects
+
+- [Crypto Pioneers](https://crypto-pioneers.vercel.app/)
+
 
 ## Let's Connect!
 
